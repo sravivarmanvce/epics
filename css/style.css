@@ -360,18 +360,11 @@ header{
 .navbar-brand img{
   width: 50%;
 }
-.navbar {
-	position: fixed; /* Set the navbar to fixed position */
-	top: 0; /* Position the navbar at the top of the page */
-	/* width: 100%; /* Full width */
-}
 .navbar li a, .navbar {
  font-family: Poppins;
     font-weight: 500;
     color: white !important;
     font-size: 16px;
-	float: right;
-	display: block;	
 }
 
 .navbar-toggle {
